@@ -1,6 +1,6 @@
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
-_DROP SCREENSHOT HERE_
+![landing-1](https://user-images.githubusercontent.com/46878585/216798334-f241ed45-7706-4228-abae-5d2cc459a1e0.png)
 <br>
 App home: https://www.substracked.com/
 
